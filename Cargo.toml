@@ -4,3 +4,6 @@ version = "0.1.0"
 authors = ["jamesolds"]
 
 [dependencies]
+glob = "0.2.11"
+filetime = "0.1.10"
+time = "0.1"
